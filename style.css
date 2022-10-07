@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  background-image: url("http://1.bp.blogspot.com/-JdIGntoT05E/VkX4hINnt8I/AAAAAAAAAE8/D8sKsuEVDdo/s1600/METTATON-2.gif");
+  background-size: cover;
+  background-position: center top;
+}
+div {
+  color: white;
+  align-items: center;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+}
+a {
+  color: red;
+}
+button {
+  height: 70px;
+  font-size: 50px;
+  width: 300px;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
